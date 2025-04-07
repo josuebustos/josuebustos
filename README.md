@@ -41,6 +41,7 @@
 ### Continuous Integration and Continuous Delivery
 
 <div align="left">
+<img width="50" src="https://raw.githubusercontent.com/josuebustos/tech-icons/refs/heads/main/img/bash.svg" title="Bash script" alt="Bash script"/>
 <img width="50" src="https://raw.githubusercontent.com/josuebustos/tech-icons/refs/heads/main/img/jenkins.svg" title="Jenkins" alt="Jenkins"/>
 <img width="50" src="https://raw.githubusercontent.com/josuebustos/tech-icons/refs/heads/main/img/aws-codebuild.svg" title="CodeBuild" alt="CodeBuild"/>
 <img width="50" src="https://raw.githubusercontent.com/josuebustos/tech-icons/refs/heads/main/img/aws-codedeploy.svg" title="CodeDeploy" alt="CodeDeploy"/>
