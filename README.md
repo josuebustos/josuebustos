@@ -19,7 +19,7 @@
 | <img width="50" src="https://raw.githubusercontent.com/josuebustos/tech-icons/refs/heads/main/img/cloudflare.svg" title="Cloudflare" alt="Cloudflare"/> | Workers & Pages, DNS |
 | <img width="50" src="https://raw.githubusercontent.com/josuebustos/tech-icons/refs/heads/main/img/azure.svg" title="Azure" alt="Azure"/> | Linux Virtual Machines, Azure DNS, Azure NAT Gateway
 
-### Application Performance Monitoring, Observability, Security information and event management
+### Application Performance Monitoring, Observability, Security Information and Event Management
 
 <div align="left">
 <img width="50" src="https://raw.githubusercontent.com/josuebustos/tech-icons/refs/heads/main/img/grafana.svg" title="Grafana" alt="Grafana"/>
