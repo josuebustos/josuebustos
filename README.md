@@ -14,7 +14,7 @@
 # Tech Stack
 
 | Cloud |Services |
-| - | - | - |
+| - | - |
 | <img width="50" src="https://raw.githubusercontent.com/josuebustos/tech-icons/refs/heads/main/img/aws.svg" title="AWS" alt="AWS"/>                      | IAM, AWS Organizations, EC2, S3, CloudFront, Router53, API Gateway, Lambda,Certificate Manager, VPC, ALB, NLB, ECS, EKS, ECR, CloudFormation, Elastic Beanstalk, Aurora and RDS, DynamoDB, CodeBuild, CodeDeploy |
 | <img width="50" src="https://raw.githubusercontent.com/josuebustos/tech-icons/refs/heads/main/img/cloudflare.svg" title="Cloudflare" alt="Cloudflare"/> | Workers & Pages, DNS |
 | <img width="50" src="https://raw.githubusercontent.com/josuebustos/tech-icons/refs/heads/main/img/azure.svg" title="Azure" alt="Azure"/> | Linux Virtual Machines, Azure DNS, Azure NAT Gateway
